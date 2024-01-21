@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhihao Zhang</h1>
 <h3 align="center">A Carneigie Mellon University Student passionate in Full Stack Software Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wirepuller" alt="wirepuller" /></a> </p>
-
 - 🔭 I’m currently working on **MERN e-Commerce-Platform**
 
 <h3 align="left">Connect with me:</h3>
