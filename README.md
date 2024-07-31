@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MERN ProShop e-commerce platform](https://github.com/wirepuller/MERN-ProShop_V2.1)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: zz4@andrew.cmu.edu </h3>
 <p align="left">
 </p>
 
