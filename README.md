@@ -1,4 +1,5 @@
 <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Zhihao Zhang</h1>
+<p>Welcome to my page! 😸</br> I'm Zhihao, a full stack developer | Game designer currently living in <b>Pittsburgh, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
 
 💻 CDM Master @ [CMU](https://www.cmu.edu/) <br>
 ⚡ JAVA / REACT / PYTHON.<br>	
