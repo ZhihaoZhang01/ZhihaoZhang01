@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me: zz4@andrew.cmu.edu </h3>
 
 <h1>LeetCode </h1>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wirepuller?theme=wtf&font=Fira%20Code&ext=heatmap&site=cn)
 
 <h1>Languages </h1>
