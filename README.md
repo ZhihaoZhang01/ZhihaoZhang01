@@ -1,5 +1,9 @@
-<h1>Hi<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Zhihao Zhang</h1>
-<h3 align="center">A Carneigie Mellon University Student passionate in Full Stack Software Development</h3>
+<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Zhihao Zhang</h1>
+
+💻 CDM Master @ [CMU](https://www.cmu.edu/) <br>
+⚡ JAVA / REACT / PYTHON.<br>	
+🦊 Gitlab: [ZhihaoZhang](https://gitlab.com/ZhihaoZhang01)<br>
+</p>	</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhihaoZhang01" alt="wirepuller" /></a> </p>
 
