@@ -5,7 +5,7 @@
 ⚡ JAVA / REACT / PYTHON.<br>	
 🦊 Gitlab: [ZhihaoZhang](https://gitlab.com/ZhihaoZhang01)<br>
 🔭 I’m currently working on [Pinara - A personalized travel map](https://github.com/ZhihaoZhang01/Pinara)
-<h3 align="left">Connect with me: zz4@andrew.cmu.edu </h3>
+<h3 align="left">Connect with me: zhihaozhang321@gmail.com </h3>
 
 <h1>LeetCode </h1>
 
