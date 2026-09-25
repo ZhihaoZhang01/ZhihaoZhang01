@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Zhihao Zhang</h1>
 
 <p>
-  Ph.D. student in Computer Science. I work on embodied AI, human-robot interaction, and robot learning—especially learning-based task and motion planning, cross-embodiment generalization, and sim-to-real deployment.
+  Ph.D. student in Computer Science in <a href="https://www.gmu.edu/">George Mason University</a>. I work on embodied AI, human-robot interaction, and robot learning—especially learning-based task and motion planning, cross-embodiment generalization, and sim-to-real deployment.
 </p>
 
 <p>
