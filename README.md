@@ -4,7 +4,7 @@
 💻 CDM Master @ [CMU](https://www.cmu.edu/) <br>
 ⚡ JAVA / REACT / PYTHON.<br>	
 🦊 Gitlab: [ZhihaoZhang](https://gitlab.com/ZhihaoZhang01)<br>
-🔭 I’m currently working on [Pinara - A personalized travel map](https://github.com/ZhihaoZhang01/Pinara)
+🔭 I’m currently working on [openvla-libero-spatial-finetune](https://github.com/ZhihaoZhang01/openvla-libero-spatial-finetune)
 <h3 align="left">Connect with me: zhihaozhang321@gmail.com </h3>
 
 
